@@ -1,0 +1,1 @@
+This is an example of a Single Page Application (SPA) written in rust with WebAssembly.
